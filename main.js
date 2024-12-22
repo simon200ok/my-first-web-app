@@ -177,7 +177,7 @@ console.log(div)
 
 body.appendChild(div)
 
-const btn = document.querySelector('button').addEventListener('click', function())
+//const btn = document.querySelector('button').addEventListener('click', function())
 console.log(btn)
 
 
